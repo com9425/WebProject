@@ -1,0 +1,94 @@
+
+
+header, nav, div, section, article, footer{
+	/*border: 1px dotted gray;*/
+}
+*{
+	box-sizing: border-box;
+}
+body{
+	text-align:center;
+
+font-family: Nanum, 돋움, dotum, Gotham, "Helvetica Neue", Helvetica, arial, sans-serif;
+
+color: #000000;
+background: black url(../images/background.jpg);
+
+}
+body td{
+	color:#000000;
+}
+header{
+	padding:5px;
+}
+header h1{
+	margin:30px;
+	text-align:center;
+}
+header h1 a{
+	text-decoration:none;
+	color:black;
+}
+div#member ul{
+	text-align:right;
+	margin: 0;
+}
+div#member li{
+	display:inline-block;
+	padding:0 10px;
+}
+div#member a{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+}
+nav{
+	background: #046380;
+	padding:0;
+}
+nav#top_menu ul{
+	width: 1000px;
+	margin:0 auto;
+	overflow: hidden;
+}
+nav#top_menu li{
+	display: inline-block;
+}
+nav#top_menu a{
+	display:block;
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	font-size : 20px;
+	padding: 20px;
+}
+nav#top_menu a:hover{
+	background-color: #333;
+
+}
+nav#top_menu a:focus{
+	background-color: #333;
+
+}
+
+.menu{
+	
+	float: left;
+}
+footer{
+	clear:both;
+	padding:5px;
+	background-color: #666666;
+	color:white;
+	
+	
+}
+footer div{
+	padding-left:10px;
+}
+footer div#short_cut a{
+	text-decoration:none;
+	color:white;
+	
+}
+

@@ -1,0 +1,70 @@
+div#contetns{
+	padding:70px;
+}
+nav#sub_menu{
+	
+	width:200px;
+	float:left;
+}
+
+img.banner{
+	display:inline-block;
+	
+	width:300px;
+	height:300px;
+}
+div#sub_banner img{
+	width: 960px;
+	height:150px;
+	
+}
+ div#sub_title{
+	background-color:#353535;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	padding: 5px;
+	
+}
+div#sub_item ul{
+	text-align:left;
+	list-style-type: none;
+	padding:0;
+	
+}
+div#sub_item ul li{
+	font-size:18px;
+	font-weight:bold;
+	border-bottom:1px;
+	border-style:dotted;
+	color: #444444;
+	
+}
+ div#sub_item ul li a{
+	display: block;
+	width:100%;
+	text-decoration:none;
+	color:black;
+	padding : 10px;
+	
+	
+		
+	
+}
+nav#sub_menu div#sub_item ul li a:hover{
+	color:white;
+	background-color: #008B8B;
+}
+
+.guitarimg{
+	padding:5px 5px 50px 5px;
+	width:985px;
+	float:left;
+}
+
+section div#navigation{
+	text-align:right;
+	padding:0 10px;
+}
+

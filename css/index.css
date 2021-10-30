@@ -1,0 +1,35 @@
+div#contetns{
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+	
+}
+
+div#main_pic{
+	padding:5px;
+}
+div#news{
+	display: inline-block;
+	padding:5px;
+}
+section#new_course{
+	width:400px;
+	padding:5px;
+	float:left;
+	
+	
+}
+section#new_info{
+	width:400px;
+	padding:5px;
+	float:left;
+}
+
+article{
+	width:375px;
+	padding:5px;
+	float:right;
+	margin-top: 100px;
+}
+
+
